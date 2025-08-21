@@ -1,39 +1,54 @@
 # 📘 Java Practice Repository
 
-This repository contains my Java practice programs.  
-Currently, I am working on **Assignment X** (`aX` folder).  
-Each question is stored in its own subfolder (`q1`, `q2`, ...).
+This repository contains my Java practice assignments.  
+Each assignment (`a1`, `a2`, `a3`, …) has its own folder with subfolders for each question (`q1`, `q2`, …).
 
 ---
 
-## 📑 Table of Contents
-- [Assignment X Questions](#-assignment-x-questions)
-  - [Q1 – Question Title](aX/q1)
-  - [Q2 – Question Title](aX/q2)
-  - [Q3 – Question Title](aX/q3)
-  - [Q4 – Question Title](aX/q4)
-  - [Q5 – Question Title](aX/q5)
-  - [Q6 – Question Title](aX/q6)
-  - [Q7 – Question Title](aX/q7)
-  - [Q8 – Question Title](aX/q8)
+## 📑 Assignments
+- [Assignment 1](a1/README.md) – Basics (loops, conditions, patterns, prime, Fibonacci, Armstrong, leap year)
+- [Assignment 2](a2/README.md)
+- [Assignment 3](a3/README.md)
+- [Assignment 4](a4/README.md)
+- [Assignment 5](a5/README.md)
+- ... *(more coming soon)*
 
 ---
 
-## 📂 Folder Structure
-aX/
-├── q1/
-├── q2/
-├── q3/
-├── q4/
-├── q5/
-├── q6/
-├── q7/
-└── q8/
+## 📂 Structure
+
+📦 java-practice-repo
+┣ 📂 a1
+┃ ┣ 📂 q1
+┃ ┣ 📂 q2
+┃ ┣ ...
+┃ ┗ 📜 README.md
+┣ 📂 a2
+┃ ┣ 📂 q1
+┃ ┗ ...
+┣ 📂 a3
+┃ ┗ ...
+┣ 📂 a4
+┃ ┗ ...
+┗ 📜 README.md   <-- Master index
 
 ---
 
 ## 🚀 How to Run
-1. Navigate to the required question folder (e.g., `aX/q1`).
-2. Compile the Java file:
-   ```bash
+1. Go to the assignment folder (e.g., `a1`).
+2. Open the question folder (e.g., `q3`).
+3. Compile the program:
+   bash
    javac filename.java
+
+
+4. Run it:
+
+   bash
+   java classname
+   
+
+---
+
+✍️ This repo will grow as I solve more Java practice questions.
+
