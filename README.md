@@ -5,16 +5,6 @@ Each assignment (`a1`, `a2`, `a3`, …) has its own folder with subfolders for e
 
 ---
 
-## 📑 Assignments
-- [Assignment 1](a1/README.md) – Basics (loops, conditions, patterns, prime, Fibonacci, Armstrong, leap year)
-- [Assignment 2](a2/README.md)
-- [Assignment 3](a3/README.md)
-- [Assignment 4](a4/README.md)
-- [Assignment 5](a5/README.md)
-- ... *(more coming soon)*
-
----
-
 ## 📂 Structure
 
 📦 java-practice-repo
