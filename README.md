@@ -5,8 +5,6 @@ Each assignment (`a1`, `a2`, `a3`, …) has its own folder with subfolders for e
 
 ---
 
-## 📂 Structure
-
 📦 java-practice-repo
 ┣ 📂 a1
 ┃ ┣ 📂 q1
@@ -20,7 +18,7 @@ Each assignment (`a1`, `a2`, `a3`, …) has its own folder with subfolders for e
 ┃ ┗ ...
 ┣ 📂 a4
 ┃ ┗ ...
-┗ 📜 README.md   <-- Master index
+┗ 📜 README.md <-- Master index
 
 ---
 
